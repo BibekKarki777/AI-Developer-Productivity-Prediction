@@ -97,16 +97,6 @@ The model is evaluated using:
 - Scikit-learn
 - Joblib
 
-## Project Structure
-
-```text
-AI-Developer-Productivity-Prediction/
-├── AI_Developer_Productivity_Prediction.ipynb
-├── ai_dev_productivity.csv
-├── AI_Developer_Productivity_Report.pdf
-├── README.md
-└── .gitignore
-```
 
 ## Model Saving
 
